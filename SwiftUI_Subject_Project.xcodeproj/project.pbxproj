@@ -11,6 +11,9 @@
 		2649E1D42B052997003CA70C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2649E1D32B052997003CA70C /* ContentView.swift */; };
 		2649E1D62B05299A003CA70C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2649E1D52B05299A003CA70C /* Assets.xcassets */; };
 		2649E1D92B05299A003CA70C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2649E1D82B05299A003CA70C /* Preview Assets.xcassets */; };
+		2649E1E02B0529DD003CA70C /* AsyncView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2649E1DF2B0529DD003CA70C /* AsyncView.swift */; };
+		2649E1E22B052AD9003CA70C /* JJabFlex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2649E1E12B052AD9003CA70C /* JJabFlex.swift */; };
+		2649E1E42B0532BF003CA70C /* AppStoreAppPart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2649E1E32B0532BF003CA70C /* AppStoreAppPart.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		2649E1D32B052997003CA70C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2649E1D52B05299A003CA70C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2649E1D82B05299A003CA70C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2649E1DF2B0529DD003CA70C /* AsyncView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncView.swift; sourceTree = "<group>"; };
+		2649E1E12B052AD9003CA70C /* JJabFlex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JJabFlex.swift; sourceTree = "<group>"; };
+		2649E1E32B0532BF003CA70C /* AppStoreAppPart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoreAppPart.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				2649E1D12B052997003CA70C /* SwiftUI_Subject_ProjectApp.swift */,
 				2649E1D32B052997003CA70C /* ContentView.swift */,
+				2649E1E32B0532BF003CA70C /* AppStoreAppPart.swift */,
+				2649E1E12B052AD9003CA70C /* JJabFlex.swift */,
+				2649E1DF2B0529DD003CA70C /* AsyncView.swift */,
 				2649E1D52B05299A003CA70C /* Assets.xcassets */,
 				2649E1D72B05299A003CA70C /* Preview Content */,
 			);
@@ -138,7 +147,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2649E1D42B052997003CA70C /* ContentView.swift in Sources */,
+				2649E1E42B0532BF003CA70C /* AppStoreAppPart.swift in Sources */,
+				2649E1E02B0529DD003CA70C /* AsyncView.swift in Sources */,
 				2649E1D22B052997003CA70C /* SwiftUI_Subject_ProjectApp.swift in Sources */,
+				2649E1E22B052AD9003CA70C /* JJabFlex.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
